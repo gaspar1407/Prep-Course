@@ -1,0 +1,30 @@
+Variables= Son espacios que se pueden guardar en la memoria de nuestro
+ programa para poder usarlo nuevamente.
+
+Strings= Son bloques de textos y SIEMRE tienen que escribirse entre
+comillas 
+ej: "HOLA"
+
+Funciones= Son fragmentos de código que nosotros podremos utilizar
+las veces que querramos y podemos darle un dinamismo a estas para que 
+ejecuten o hagan cosas por nosotros.
+ Para utilizarla primero debemos escribir la palabra
+FUNCTION, despúes de eso viene el nombre de la función (Generalmente
+usamos como nombre lo que describe la acción de la función), luego 
+vienen un parentesis abierto y otro cerrado y por ultimo los corchetes
+(donde escribiremos todo nuestro código) 
+
+Argumentos= Son variables que declaramos adentro de la funcion que van a 
+tomar un valor cuando invoquemos la funcion. Se pueden agregar varios 
+argumentos SIEMPRE separandolos por comas.
+  Return= Es la declaración que usamos cuando queremos devolver algo,
+          por ejemplo la suma de dos numeros. Es la unica forma en que
+          los datos escapen de una función. 
+
+Declaraciones "IF"= Es una palabra clave que se utiliza para el control
+de flujo y comparación. Es una forma para que nuestra función verifique
+si algo es True o False ya sea ejecutando el código suministrado si es 
+True o avanzando si es False.
+
+Valores Booleanos= Son un tipo de dato que se utilizan en JavaScript
+para significar si algo es verdadero o falso.
