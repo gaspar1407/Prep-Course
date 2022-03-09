@@ -1,0 +1,9 @@
+For=  es un tipo de bucle que cumple una funcion de evaluar multipes expreciones hasta devolver el valor que nosotros buscamos.
+      tienen una sintaxis unica en la cual debemos colocar primero la palabra clave "for" y despues (entre parentesis) la variable seguido del
+      condicional y por ultimo incrementar el valor de la variable (var++). 
+
+&&= Es un tipo de operador logico que devuelve True si todas las condiciones son True
+
+||= Es un tipo de operador logico que devuelve True si una o mas condiciones son True
+
+!= Es un tipo de operador logico que devuelve el booleano opuesto al que se le pase
