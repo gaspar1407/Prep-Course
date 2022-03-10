@@ -1,0 +1,3 @@
+Arrays = Son contenedores de almacenamientos para uso de datos. 
+Es como que un array es una caja con varios "juguetes" con los que vamos a poder "jugar" con cada uno de ellos cuando lo necesitemos.
+se crea usando una variable y establecerla en "[]" y adentro de los [] almacenamos todo tipo de datos.
